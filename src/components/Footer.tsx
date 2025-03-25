@@ -23,7 +23,7 @@ const Footer = () => {
                 <FaEnvelope /> <span>Email</span>
               </a>
               <a
-                href="https://github.com/alexkotov10/MealTracker"
+                href="https://github.com/alexkotov10/meal-tracker"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-muted-foreground hover:text-primary flex items-center gap-2"
