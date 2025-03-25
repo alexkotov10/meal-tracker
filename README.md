@@ -1,8 +1,10 @@
 # Meal Tracker
 
-![Meal Tracker](./src/assets/meal-icon.svg)
-
 A simple, intuitive application for tracking your daily meals, calories, and protein intake.
+
+## 🔗 Live Demo
+
+[Visit Meal Tracker App](meal-tracker-gules-iota.vercel.app/)
 
 ## 🌟 Features
 
