@@ -4,7 +4,7 @@ A simple, intuitive application for tracking your daily meals, calories, and pro
 
 ## 🔗 Live Demo
 
-[Visit Meal Tracker App](meal-tracker-gules-iota.vercel.app/)
+[Visit Meal Tracker App](https://meal-tracker-gules-iota.vercel.app/)
 
 ## 🌟 Features
 
